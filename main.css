@@ -1,0 +1,59 @@
+/* Travel */
+/* body {
+    background-color: yellow;
+}*/
+
+/* rule set # 1 */
+#number-one {
+    color: blueviolet;
+}
+
+/* rule set #2 */
+#number-two {
+    color: brown;
+    font: 10px;
+}
+
+/* rule set #3 */
+#number-three {
+    color: chartreuse;
+}
+
+/* rule set #4 */
+#number-four {
+    color: darkgreen;
+}
+
+/* rule set #5 */
+#number-five {
+    color: deeppink;
+}
+
+/* rule set #6 */
+#number-six {
+    color: rgb(189, 85, 123)
+}
+
+/* rule set #7 */
+.first-class {
+    color: darkblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* rule set *8 */
+.second-class {
+    color: darkmagenta;
+    width: 5px;
+    height: 55;
+}
+
+.container {
+    border: 5px lightcoral;
+    margin 50px;
+}
+
+.wrapper {
+    background-color: orange; 
+    margin: 5px;
+    font-size: larger;
+}
